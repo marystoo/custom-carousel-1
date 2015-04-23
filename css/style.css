@@ -1,11 +1,11 @@
-#frame {
+.frame {
   width: 800px;
   height: 600px;
   overflow: hidden;
   position: relative;
 }
 
-#tray {
+.tray {
   position: relative;
   /*width: 2400px; /* carousel.js will dynamically set a width */
 }
